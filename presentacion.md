@@ -9,3 +9,6 @@ Además de mi pasión por la tecnología, tengo varias aficiones que me ayudan a
 - **Viajes:** Me encanta viajar y conocer nuevas culturas, lo que me brinda una perspectiva más amplia del mundo y me inspira en mi trabajo diario.
 ## Contacto
 Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo electrónico a
+
+![Gato](gato.jpg)
+
